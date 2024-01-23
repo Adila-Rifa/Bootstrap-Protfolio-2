@@ -48,7 +48,6 @@ h6 {
   min-height: 100vh;
   height: 100%;
   display: flex;
-  background-color: aqua;
   position: relative;
   flex-direction: column;
   justify-content: center;
